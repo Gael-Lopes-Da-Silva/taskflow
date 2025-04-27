@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yVWGlB2fmU3qc9NLBl4cMo92Gnv0bwlrEEH3Gnd0xNc=",
+  "Source": "taskflow",
+  "BasePath": "_content/taskflow",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
