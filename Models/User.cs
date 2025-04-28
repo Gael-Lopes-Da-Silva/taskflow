@@ -4,7 +4,9 @@ namespace taskflow.Models
 {
     public enum Role
     {
+        [Display(Name = "Admin")]
         Admin,
+        [Display(Name = "User")]
         User
     }
 
